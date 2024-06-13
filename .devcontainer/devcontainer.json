@@ -1,0 +1,6 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  },
+  "postStartCommand": "/workspaces/$RepositoryName/.devcontainer/start-arc.sh"
+}
